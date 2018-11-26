@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyochang", "Assembly-CSharp.csproj", "{58D1762D-4BC9-A2C6-5A3C-DF9912262AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyochang", "Assembly-CSharp-Editor.csproj", "{6DA4484E-B5A5-810A-4303-2B4DB957151D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D1762D-4BC9-A2C6-5A3C-DF9912262AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D1762D-4BC9-A2C6-5A3C-DF9912262AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D1762D-4BC9-A2C6-5A3C-DF9912262AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D1762D-4BC9-A2C6-5A3C-DF9912262AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA4484E-B5A5-810A-4303-2B4DB957151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA4484E-B5A5-810A-4303-2B4DB957151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA4484E-B5A5-810A-4303-2B4DB957151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA4484E-B5A5-810A-4303-2B4DB957151D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
